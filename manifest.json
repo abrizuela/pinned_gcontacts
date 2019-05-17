@@ -6,8 +6,8 @@
   },
 
   "manifest_version": 2,
-  "name": "Pinned Google Drive",
-  "version": "2.1.0",
+  "name": "Pinned Google Contacts",
+  "version": "2.1.1",
   "description": "Go to the pinned Google Contacts tab. If it doesn't exist, it's created.",
 
   "icons": {
@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://contacts.google.com/*"
+    "tabs"
   ],
 
   "browser_action": {
